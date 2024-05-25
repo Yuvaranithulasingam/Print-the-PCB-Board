@@ -57,5 +57,7 @@ License: Mach3 Mill may require purchasing a license for full functionality, dep
 System Requirements: Ensure that your computer meets the minimum system requirements specified by Mach3 Mill for optimal performance.
 Safety: Follow proper safety protocols and guidelines when operating CNC machines to prevent accidents and ensure operator safety.
 Overall, Mach3 Mill software provides powerful capabilities for PCB engraving, drilling, and cutting, enabling manufacturers to achieve precise and efficient PCB fabrication processes.
+## Output:
+ ![WhatsApp Image 2024-05-25 at 07 23 34_394584ef](https://github.com/Yuvaranithulasingam/Print-the-PCB-Board/assets/121418522/2745ac54-dbd3-4777-87bc-ffae2adf2640)
 ## Result
 Thus the engraving,drilling, cutting and masking operation are performed to develop the bare board.
